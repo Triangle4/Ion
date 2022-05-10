@@ -1,3 +1,6 @@
+// Thank you to Javidx9 https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA
+// His code is used throughout this file.
+
 package IonEngine;
 
 import java.awt.Color;
