@@ -1,0 +1,2 @@
+Just open in VSCode and Run the main file.
+This will create the project and link files automatically.
